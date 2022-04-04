@@ -11,7 +11,5 @@ Stefan M. Goetz, University of Cambridge (UK), Duke University (USA)
 
 +: code written by
 
-e-mail: mahdi.alavi.work@gmail.com
-
 April 2022
 
