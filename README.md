@@ -1,5 +1,4 @@
-# Estimation of neural membrane time-constant and input-output curve in cTMS at a fixed pulse width
-
+## Estimation of neural membrane time-constant and input-output curve in cTMS at a fixed pulse width
 
 Seyed Mohammad Mahdi Alavi+, Stellantis (Chrysler), Canada 
 
@@ -13,3 +12,5 @@ Stefan M. Goetz, University of Cambridge (UK), Duke University (USA)
 
 April 2022
 
+## How to run
+run main.m 
