@@ -1,6 +1,6 @@
 # Estimation of neural membrane time-constant and input-output curve in cTMS at a fixed pulse width
 
-Seyed Mohammad Mahdi Alavi+, Stellantis (Chrysler), Canada 
+Seyed Mohammad Mahdi Alavi+
 
 Fidel Vila-Rodriguez, Unitverisyt of British Columbia, Canada 
 
