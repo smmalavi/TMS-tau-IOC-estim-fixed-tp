@@ -20,4 +20,4 @@ Optimal sampling is written in main.m
 
 Uniform sampling is written in main_tau_est_fixed_Tp_uni.m
 
-Figures are wrtten in main_plots.m 
+Figures are written in main_plots.m 
